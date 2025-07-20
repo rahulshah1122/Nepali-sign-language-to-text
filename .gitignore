@@ -33,7 +33,7 @@ Thumbs.db
 
 # Ignore model and data files
 
-*.hdf5
+
 *.ckpt
 *.pb
 *.pth

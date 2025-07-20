@@ -120,4 +120,3 @@ This project is for educational purposes.
 
 **Key files:**  
 - Frontend main app: [`App.js`](frontend/src/App.js)  
--
