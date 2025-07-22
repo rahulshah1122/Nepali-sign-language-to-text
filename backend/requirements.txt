@@ -1,7 +1,10 @@
-Django>=4.0
-djangorestframework
-numpy
-opencv-python
-mediapipe
-tensorflow
-Pillow
+# Python version: >=3.8
+
+Django>=4.0,<5.0
+djangorestframework>=3.14.0,<4.0
+numpy>=1.24.0,<2.0
+opencv-python>=4.7.0,<5.0
+mediapipe>=0.10.0,<1.0
+tensorflow>=2.19.0,<3.0
+Pillow>=9.0.0,<11.0
+django-cors-headers>=4.0.0,<5.0
